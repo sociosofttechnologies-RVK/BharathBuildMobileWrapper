@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BharathBuild</string>
+    <string name="title_activity_main">BharathBuild</string>
+    <string name="package_name">com.bharathbuild.app</string>
+    <string name="custom_url_scheme">com.bharathbuild.app</string>
+</resources>
