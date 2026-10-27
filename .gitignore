@@ -1,0 +1,12 @@
+node_modules/
+www/app-url.js
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+ios/App/Pods/
+ios/App/build/
+ios/DerivedData/
+*.keystore
+*.jks
+.DS_Store

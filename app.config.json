@@ -1,0 +1,6 @@
+{
+  "appUrl": "https://REPLACE-ME.lovable.app",
+  "appId": "com.bharathbuild.app",
+  "appName": "BharathBuild",
+  "extraAllowedHosts": ["*.supabase.co", "*.lovable.app", "oauth.lovable.app"]
+}
